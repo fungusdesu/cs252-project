@@ -1,5 +1,6 @@
 # Cultour - Turn your bleak trip into peak sh*t
 bro pls stop commit farming 
+![alt](comic_0040.png)
 
 # Project Setup (with Docker)
 
